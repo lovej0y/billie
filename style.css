@@ -1,0 +1,54 @@
+body {
+	background-image: url("a0ee4a4c8caba8b4ab1af09114acaa94.jpg");
+	color: white;
+	text-align: center;
+}
+
+a {
+	color: white;
+	text-decoration: none;
+	padding: 10px;
+	font-size: 19px;
+}
+
+ .center {
+	margin-left: auto;
+	width: 500px;
+	margin-right: auto;
+	border-width: 10px;
+	border-radius: 5px;
+}
+
+.gallery {
+	width:250px;
+}
+
+.navbar {
+	background: black;
+}
+
+a:hover {
+    background-color: cadetblue;
+}
+
+.active {
+	background-color: cadetblue;
+}
+
+p {
+	font-family: 'Dosis', sans-serif;
+	font-weight: bold;
+}
+
+h3 {
+	font-family: 'Bebas Neue', sans-serif;
+	font-size: 28px;
+}
+
+h1 {
+	font-family: 'Petit Formal Script', cursive;
+}
+
+h6 {
+	font-family: 'Dosis', sans-serif;
+}
